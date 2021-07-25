@@ -1,0 +1,40 @@
++/TITLE{Comparisons}
++/CSS{EthanWeb.css}
+
++/h2{Comparisons with Similar Situations}
+
+The most important informatilon in negotiations involves
+comparisons with similar employment situations.  The most
+persuasive comparisons begin with an explanation of why 
+they are appropriate. 
+
++/p
+In choosing a comparator  I take these things into consideration:
+
++/ul
+geographic location
++/li
+size
++/li
+type of employer
++/li
+source of income
++/li
+customer base 
+-/ul
+
+Although wages are of utmost importance, there are
+many other considerations.  For example the costs
+of union requests for benefits or working conditions.
+
++/p
+Without the help of professional with substantial education and experience 
+to handle these details, expensive mistakes are likely.
+
++/p
++/sm{ +/url{index.html;Return to main page} or 
++/url{contact.html;Contact Ethan}. }
+
+
+-/p
+

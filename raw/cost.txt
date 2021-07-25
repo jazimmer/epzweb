@@ -1,0 +1,39 @@
++/TITLE{Contract's Cost}
++/CSS{EthanWeb.css}
+
++/h2{Contract's Total Cost}
+
+The total cost of a contract is of utmost importance to the
+employer.  My experience allows me to calculate
+such things as
+
++/ul
+The cost difference between allowing overtime on Sundays
+versus the seventh working day.
++/li
+What is the actual cost of allowing an additional week of
+vacation time?
++/li
+How do particular changes in work rules affect the total cost?
++/li
+What is employee turnover costing?
++/li
+What is the cost difference between particular changes to the night
+shift against offering a premium for weekend work?
++/li
+Are possible savings in a better contract worth holding
+up what's on the table now?
+-/ul
+
+Working with me can provide you with more than just a report
+but also the ability to adapt to proposals being considered
+during negotiations.
+
+
++/p
++/sm{ +/url{index.html;Return to main page} or 
++/url{contact.html;Contact Ethan}. }
+
+
+-/p
+

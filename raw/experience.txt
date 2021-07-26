@@ -1,0 +1,26 @@
++/CSS{EthanWeb.css}
++/h2{Ethan Zimmer, Experience}
+
+For over two decades I have produced compensation reports,
+given advice, and testified in arbitration hearings.  My
+clients have included
+
++/ol
+Massachusetts Bay Transport Authority 
++/li Massachusetts Port Authority
+-/ol
+
+I am quite familiar with
+the arcane details of public safety 
+contracts in Masachusetts. 
+
++/p
+References available on request.
+
++/p
++/sm{ +/url{index.html;Return to main page} or 
++/url{contact.html;Contact Ethan}. }
+
+
+-/p
+

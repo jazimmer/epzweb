@@ -1,0 +1,25 @@
++/CSS{EthanWeb.css}
++/TITLE{Contacting Ethan Zimmer}
+
++/h2{Contacting Ethan Zimmer}
+
++/h3{Email}
++/indent
++/lg{+/url{;spam-free form}}  +/i{not set up yet}
+-/indent
+
++/h3{Phone}
+
++/img{EthanPhone.png;a phone number;100}
+
++/h3{Linkedln}
+
++/indent
+ +/i{not set up yet}
+-/indent
+
+-/p
+
+
+
+

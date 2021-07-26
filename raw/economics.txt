@@ -1,0 +1,35 @@
++/TITLE{Economic Environment}
++/CSS{EthanWeb.css}
++/h2{Economic Environment}
+
+Contracts are judged by two different groups of people: unions
+and management.  Although these groups don't use the same criteria both
+need to understand the same economic environment.
+
++/p
+That's where my education comes in+/mdashI can explain the
+current economic
+environment.  
+
++/ul
+What are current and projected costs of living?
++/li
+What are state and national norms for this type of work?
++/li
+How will inflation and interest rates reflect the future of a
+contract?
++/li
+How long do today's workers expect to stay in a job?
+-/ul
+
+All these things will influence how each side of the
+negotiations interprets a proposed contract.
+
++/p
++/sm{ +/url{index.html;Return to main page} or 
++/url{contact.html;Contact Ethan}. }
+
+-/p
+
+
+

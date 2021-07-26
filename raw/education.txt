@@ -1,0 +1,18 @@
++/TITLE{Ethan Zimmer, Education}
++/CSS{EthanWeb.css}
++/h2{Ethan Zimmer, Education}
+
++/ul
+bachelors particulars
++/li
+masters particulars
++/li
+date Ph.D. candidacy exam passed
+-/ul
+
++/sm{ +/url{index.html;Return to main page} or 
++/url{contact.html;Contact Ethan}. }
+
+-/p
+
+

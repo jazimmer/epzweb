@@ -1,4 +1,0 @@
-AuthUserFile /home/protected/ethan/.htpasswd
-AuthGroupFile /dev/null
-AuthName EPzimmer
-AuthType Basic
